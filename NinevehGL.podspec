@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "NinevehGL"
-  s.version          = "0.9.3"
+  s.version          = "2.0.0"
   s.summary          = "NinevehGL is a 3D Engine made to Apple's platforms."
   s.description      = <<-DESC
                        NinevehGL is a 3D engine, working with OpenGL ES, Metal and Vulkan.
